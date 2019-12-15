@@ -1,6 +1,6 @@
 # c-project
 a small c++ project
-
+#use dev c++
 ## Features
 1.music player
 2.quiz
